@@ -1,8 +1,5 @@
 # Tacos "El jefe"
 
-- [ ] Crear el buyer persona
-- [ ] Establecer publico objetivo
-- [ ] Toma de requerimientos
 - [ ] Diseñar logo
 - [ ] Diseñar el flujo de la aplicación 
 - [ ] Hacer wireframe
